@@ -2,9 +2,9 @@
   "name": "poker-bot",
   "version": "0.1.0",
   "description": "A simple Node app built on fastify, instantly up and running.",
-  "main": "poker_bot.js",
+  "main": "Poker_bot.js",
   "scripts": {
-    "start": "node poker_bot.js"
+    "start": "node Poker_bot.js"
   },
   "dependencies": {
     "discord.js": "^13.9.0",
